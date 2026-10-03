@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-policies-spread-treaty-freeze.trycloudflare.com
-=======
-casinos-requests-deposit-homepage.trycloudflare.com
->>>>>>> Stashed changes
+websites-baseline-slides-chains.trycloudflare.com
