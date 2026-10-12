@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-portsmouth-referenced-spider-genealogy.trycloudflare.com
-=======
-vsnet-genome-headquarters-vocational.trycloudflare.com
->>>>>>> Stashed changes
+assets-homeland-spots-blast.trycloudflare.com
