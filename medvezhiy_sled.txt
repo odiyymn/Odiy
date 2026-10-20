@@ -1,1 +1,1 @@
-resources-suspension-integrate-randy.trycloudflare.com
+illinois-newspapers-stats-velocity.trycloudflare.com
