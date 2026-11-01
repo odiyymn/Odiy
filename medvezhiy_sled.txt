@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-lows-casey-longitude-guam.trycloudflare.com
-=======
-portraits-reviewer-void-evanescence.trycloudflare.com
->>>>>>> Stashed changes
+synthetic-ads-coordinator-robot.trycloudflare.com
