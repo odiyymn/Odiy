@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 drinks-partner-gilbert-academy.trycloudflare.com
+=======
+zealand-soldiers-eva-east.trycloudflare.com
+>>>>>>> Stashed changes
